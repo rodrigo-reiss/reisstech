@@ -2,7 +2,7 @@ Sobre mim:
 
 - 👋 Olá, eu sou o Rodrigo Reis
 - DevOps em formação...
-- Trabalho atualmente como Analista de Redes.
+
 
 
 <!---
