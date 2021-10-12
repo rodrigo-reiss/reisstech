@@ -1,7 +1,18 @@
-Sobre mim:
+<div align="center">
+<h2>Olá, Eu sou o Rodrigo Reis!</h2>
 
-- 👋 Olá, eu sou o Rodrigo Reis
-- DevOps em formação...
+<h3>  Sobre Mim! </h3>
+
+  🙋 Um Analista de Redes querendo conhecer o mundo DevOps :)!
+  
+ 
+
+<h3>⚙️ Stack</h3>
+
+
+
+[![Rodrigo Reis GitHub Stats](https://github-readme-stats.vercel.app/api?username=reisstech&show_icons=true)](https://github.com/reisstech)
+
 
 
 
