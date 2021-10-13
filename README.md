@@ -6,14 +6,19 @@
   🙋 Um Analista de Redes querendo conhecer o mundo DevOps :)!
   
  
-
-<h3>⚙️ Stack</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rodrigo-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Rodrigo-Docker" height="" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Rodrigo-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Rodrigo-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Rodrigo-Kube" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  <img align="center" alt="Rodrigo-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <br></br>
   
-  AWS
+</div>
   
-  Docker
   
-  NodeJs & Python
+  
   
 <div align="center">
   <a href="https://github.com/reisstech">
