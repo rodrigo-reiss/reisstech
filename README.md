@@ -1,9 +1,9 @@
 <div align="center">
-<h2>Olá, Eu sou o Rodrigo Reis!</h2>
+<h2>Olá!</h2>
 
 <h3>  Sobre Mim! </h3>
 
-  🙋 Um Analista de Redes querendo conhecer o mundo DevOps :)!
+  🙋 Network Analyst and curious about the DevOps World :)!
   
  
 <div style="display: inline_block"><br>
