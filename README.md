@@ -1,7 +1,7 @@
 <div align="center">
-<h2>Olá!</h2>
+<h2>Hello World</h2>
 
-<h3>  Sobre Mim! </h3>
+<h3>  About Me </h3>
 
   🙋 Network Analyst and curious about the DevOps World :)!
   
