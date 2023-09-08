@@ -3,7 +3,7 @@
 
 <h3>  About Me </h3>
 
-  🙋 Network Analyst and curious about the DevOps World :)!
+  🙋 Infrastructure Engineer!
   
  
 <div style="display: inline_block"><br>
